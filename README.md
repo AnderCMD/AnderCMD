@@ -1,8 +1,10 @@
+💻| Software Engineer
 
-|💻| Software Engineer |💻|
+🟢| Programming Languages:
+📘| C++
+📕| Java
+📒| Python
 
-|🔷| ¡Hi! - I am Ander Gonzalez. I from Mexico. |🔷|
-
-|🟢| Programming Languages: C++ - Java - Python |🟢|
-
-|📧| Contact me: ander.gamer@outlook.com |📧|
+🟣| Contactame:
+📧| Correo: ander.gamer@outlook.com
+💬| Discord AnderGamesOG#7266
