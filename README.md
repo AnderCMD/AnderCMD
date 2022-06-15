@@ -6,7 +6,7 @@
 
 
 |🟢|     Programming Languages
-           C++ - Java - Python
+           C++ - Java - Python |🟢|
 
 |📧|          Contact me
         ander.gamer@outlook.com |📧|
