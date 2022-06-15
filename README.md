@@ -1,5 +1,5 @@
 
-|💻|        Software Engineer
+|💻|        Software Engineer |💻|
 
 |🔷|   ¡Hi! - I am Ander Gonzalez.
             I am from Mexico. |🔷|
