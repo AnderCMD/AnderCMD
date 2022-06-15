@@ -7,4 +7,4 @@
 
 🟣| Contact me:
 📧| Mail: ander.gamer@outlook.com
-💬| Discord: AnderGamesOG#7266
+💬| Discord: https://discordapp.com/users/AnderGamesOG#7266
