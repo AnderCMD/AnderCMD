@@ -5,6 +5,6 @@
 📕| Java
 📒| Python
 
-🟣| Contactame:
-📧| Correo: ander.gamer@outlook.com
-💬| Discord AnderGamesOG#7266
+🟣| Contact me:
+📧| Mail: ander.gamer@outlook.com
+💬| Discord: AnderGamesOG#7266
