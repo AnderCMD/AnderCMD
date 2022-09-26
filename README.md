@@ -4,8 +4,7 @@
 🌎|Mexico
 
 ⚪|Language / Idioma
-💬|Español
-💬|Ingles
+💬|Español & Ingles
 
 🔵| Programming Languages / Lenguajes de Programación:
 📘| C++ - C#
