@@ -1,9 +1,9 @@
 💻| Software Engineer
 
 🟢| Programming Languages:
-📘| C++ & C#
-📕| Java & JavaScript
-📒| Python
+📘| C++ - C#
+📕| Java - JavaScript
+📒| HTML - CSS
 
 🟣| Contact me:
 📧| Mail: ander.gamer@outlook.com
