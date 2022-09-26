@@ -1,10 +1,17 @@
-💻| Software Engineer
+💻| Software Engineer / Ingeniero en Software
 
-🟢| Programming Languages:
+🟢|Country / País
+🌎|Mexico
+
+⚪|Language / Idioma
+💬|Español
+💬|Ingles
+
+🔵| Programming Languages / Lenguajes de Programación:
 📘| C++ - C#
 📕| Java - JavaScript
-📒| HTML - CSS
+📙| HTML - CSS
 
-🟣| Contact me:
+🟣| Contact me / Contactame:
 📧| Mail: ander.gamer@outlook.com
 💬| Discord: https://discordapp.com/users/AnderCMD#7266
