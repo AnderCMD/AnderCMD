@@ -9,7 +9,7 @@
 🔵| Programming Languages / Lenguajes de Programación:
 📘| C++ - C#
 📕| Java - JavaScript
-📙| HTML - CSS
+📙| HTML - CSS - NodeJS
 
 🟣| Contact me / Contactame:
 📧| Mail: ander.gamer@outlook.com
