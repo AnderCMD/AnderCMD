@@ -6,7 +6,7 @@
 ⚪|Language / Idioma
 - 💬|Español & Ingles B1
 
-🔵| Programming Languages / Lenguajes de Programación:
+🔵| Technologies / Tecnologías
 - 📘| C++ - C#
 - 📕| Java - JavaScript
 - 📙| HTML - CSS - NodeJS
