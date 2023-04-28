@@ -10,6 +10,7 @@
 - 📘| C++ - C#
 - 📕| Java - JavaScript
 - 📙| HTML - CSS - NodeJS
+- 📚| MySQL
 
 🟣| Contact me / Contactame:
 - 📧| Mail: ander.gamer@outlook.com
