@@ -1,9 +1,9 @@
 💻| Software Engineer / Ingeniero en Software
 
-🟢|Country / País
-- 🌎|Mexico
+🟢| Country / País
+- 🌎| Mexico
 
-⚪|Language / Idioma
+⚪| Language / Idioma
 - 💬|Español & Ingles B1
 
 🔵| Technologies / Tecnologías
