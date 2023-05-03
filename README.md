@@ -1,18 +1,31 @@
-💻| Software Engineer / Ingeniero en Software
-- 👨🏻‍💻| Ing. Ander Gonzalez
 
-🟢| Country / País
-- 🌎| Mexico
+# 👨🏻‍💻| Ing. Ander Gonzalez
 
-⚪| Language / Idioma
-- 💬|Español & Ingles B1
+#### ⚫| Profession / Profesión
+👨🏻‍🎓| Software Engineer / Ingeniero en Software
 
-🔵| Technologies / Tecnologías
-- 📘| C++ - C#
-- 📕| Java - JavaScript
-- 📙| HTML - CSS - NodeJS
-- 📚| MySQL
+------------
 
-🟣| Contact me / Contactame:
-- 📧| Mail: ander.gamer@outlook.com
-- 💬| Discord: https://discordapp.com/users/AnderCMD#7266
+#### 🟢| Country / País
+🌎**|** México
+
+------------
+
+#### ⚪| Language / Idioma
+💬**|** Spanish / Español
+💬**|** English B1 / Ingles B1
+
+------------
+
+#### 🔵| Technologies / Tecnologías
+📘**|** C++ - C#
+📕**|** JavaScript
+📙**|** HTML - CSS - NodeJS
+📚**|** MySQL
+
+------------
+
+#### 🟣| Contact me / Contactame:
+**📧| Principal Mail:** andercmd@outlook.com
+**📧| Secondary Mail:** ander.gamer@outlook.com
+**💬| Discord:** [@AnderCMD#7266](https://discordapp.com/users/AnderCMD#7266 "@AnderCMD#7266")
