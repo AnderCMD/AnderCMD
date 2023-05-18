@@ -28,5 +28,5 @@
 ### 🟣| Contact me / Contactame:
 - 📧| **Principal Mail:** andercmd@outlook.com
 - 📧| **Secondary Mail:** ander.gamer@outlook.com
-- 💬| **Discord:** [@AnderCMD#7266](https://discordapp.com/users/AnderCMD#7266)
+- 💬| **Discord:** [AnderCMD#7266](https://discordapp.com/users/AnderCMD#7266)
 
