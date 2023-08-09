@@ -18,10 +18,11 @@
 ------------
 
 ### 🔵| Technologies / Tecnologías
-- 📘| C++ - C#
-- 📕| JavaScript
-- 📙| HTML - CSS - NodeJS
-- 📚| MySQL
+- 📘| C++ | C#
+- 📕| JavaScript | TypeScript
+- 📙| HTML | CSS | TailwindCSS
+- 📗| NodeJS | Astro
+- 📚| MySQL | MongoDB
 
 ------------
 
