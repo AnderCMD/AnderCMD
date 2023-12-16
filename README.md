@@ -21,6 +21,7 @@
 - ⭐| C++ | C#
 - ⭐| JavaScript | TypeScript
 - ⭐| Python
+- ⭐| HTML | CSS (No Language / No Lenguaje)
 
 ------------
 
