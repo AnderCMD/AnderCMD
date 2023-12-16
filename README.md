@@ -17,17 +17,30 @@
 
 ------------
 
-### 🔵| Technologies / Tecnologías
-- 📘| C++ | C#
-- 📕| JavaScript | TypeScript
-- 📙| HTML | CSS | TailwindCSS
-- 📗| NodeJS | Astro
-- 📚| MySQL | MongoDB
+### 🔵| Languages / Lenguajes
+- ⭐| C++ | C#
+- ⭐| JavaScript | TypeScript
+- ⭐| Python
+
+------------
+
+### 🟠| Frameworks
+- ⭐| NodeJS
+- ⭐| Astro
+- ⭐| React
+- ⭐| Vite
+- ⭐| TailwindCSS
+
+------------
+
+### 🔴| Databases / Bases de Datos
+- ⭐| MySQL
+- ⭐| MongoDB
 
 ------------
 
 ### 🟣| Contact me / Contactame:
-- 📧| **Principal Mail:** andercmd@outlook.com
-- 📧| **Secondary Mail:** ander.gamer@outlook.com
+- 📧| **Principal Mail / Correo Principal:** andercmd@outlook.com
+- 📧| **Secondary Mail / Correo Secundario:** ander.gamer@outlook.com
 - 💬| **Discord:** [AnderCMD](https://discordapp.com/users/AnderCMD)
 
