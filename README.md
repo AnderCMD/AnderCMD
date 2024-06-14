@@ -1,33 +1,42 @@
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/107501858?v=4"  />
+<!-- <img align="right" height="200" src="https://avatars.githubusercontent.com/u/107501858?v=4"  /> -->
+<img align="right" height="200" width="200" src="./Images/Ander.jpg">
 
 ###
 
-<h1 align="center">👋🏻 Hi! I am AnderCMD 🔥 I'm a Software Engineer 💻</h1>
+<h1 align="center">👋🏻 Hi! I am AnderCMD</h1>
+<h3 align="center">I am a software engineer with 2+ years of experience 💻</h3>
 
 ###
 
 <div align="center">
-  <a href="http://www.youtube.com/@AnderCMD" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
+  <a href="#" target="_blank">
+    <img src="./Icons/icons8-web-48.png" width="40" height="40" alt="Portfolio Icon"  />
+  </a>
+  <a href="https://github.com/AnderCMD" target="_blank">
+    <img src="./Icons/github.svg" width="40" height="40" alt="Github Logo"  />
   </a>
   <a href="https://www.twitch.tv/andercmds" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="47" height="35" alt="twitch logo"  />
+    <img src="./Icons/twitch.svg" width="40" height="40" alt="Twitch Logo"  />
   </a>
   <a href="https://twitter.com/AnderCMDs" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
+    <img src="./Icons/x.svg" width="40" height="40" alt="X Logo"  />
   </a>
-  <a href="https://codepen.io/AnderCMD" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="47" height="35" alt="codepen logo"  />
+  <a href="https://www.linkedin.com/in/andercmd/" target="_blank">
+    <img src="./Icons/linkedin.svg" width="40" height="40" alt="LinkedIn Logo"  />
   </a>
-  <a href="AnderCMD" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+  <a href="mailto:andercmd@outlook.com" target="_blank">
+    <img src="./Icons/outlook.svg" width="40" height="40" alt="Correo Icon"  />
   </a>
-  <a href="andercmd@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="47" height="35" alt="microsoft-outlook logo"  />
+  <a href="https://platzi.com/p/AnderCMD/" target="_blank">
+    <img src="./Icons/platzi.svg" width="40" height="40" alt="Platzi Logo"  />
+  </a>
+  <a href="https://developers.google.com/profile/u/AnderCMD" target="_blank">
+    <img src="./Icons/gdsc.svg" width="40" height="40" alt="Google Dev Logo"  />
+  </a>
+  <a href="https://learn.microsoft.com/es-es/users/andercmd/" target="_blank">
+    <img src="./Icons/microsoft.svg" width="40" height="40" alt="Microsoft Learn Logo"  />
   </a>
 </div>
-
-###
 
 <br clear="both">
 
@@ -35,71 +44,59 @@
 
 ###
 
-<img align="left" height="200" src="https://miro.medium.com/v2/resize:fit:1358/1*xZrSvUrS-6zQQBfevGed2w.gif"  />
+<img align="left" height="150" width="100%" src="https://miro.medium.com/v2/resize:fit:1358/1*xZrSvUrS-6zQQBfevGed2w.gif" />
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="35" alt="rails logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="35" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="35" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="35" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="35" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="35" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="35" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="35" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
+<h2>Languages</h2>
+<div align"center">
+  <img src="./Icons/javascript.svg" height="40" width="40" alt="Logo Javascript" />
+  <img src="./Icons/typescript.svg" height="40" width="40" alt="Logo Typescript" />
+  <img src="./Icons/java.svg" height="40" width="40" alt="Logo Java" />
+  <img src="./Icons/python.svg" height="40" width="40" alt="Logo Python" />
+  <img src="./Icons/csharp.svg" height="40" width="40" alt="Logo C#" />
 </div>
 
-###
+<h2>Frontend</h2>
+<div align="left">
+  <img src="./Icons/html5.svg" height="40" width="40" alt="Logo HTML" />
+  <img src="./Icons/css.svg" height="40" width="40" alt="Logo CSS" />
+  <img src="./Icons/tailwindcss.svg" height="40" width="40" alt="Logo TailwindCSS" />
+  <img src="./Icons/flowbite.svg" height="40" width="40" alt="Logo Flowbite" />
+  <img src="./Icons/react.svg" height="40" width="40" alt="Logo React" />
+  <img src="./Icons/astro.svg" height="40" width="40" alt="Logo Astro" />
+  <img src="./Icons/vitejs.svg" height="40" width="40" alt="Logo ViteJS" />
+</div>
+
+<h2>Backend</h2>
+<div align"center">
+  <img src="./Icons/nodejs.svg" height="40" width="40" alt="Logo NodeJS" />
+  <img src="./Icons/expressjs.svg" height="40" width="40" alt="Logo ExpressJS" />
+  <img src="./Icons/expo.svg" height="40" width="40" alt="Logo Expo" />
+  <img src="./Icons/android-icon.svg" height="40" width="40" alt="Logo Android Icon" />
+</div>
+
+<h2>Databases</h2>
+<div align"center">
+  <img src="./Icons/mysql.svg" height="40" width="40" alt="Logo MySQL" />
+  <img src="./Icons/mongodb.svg" height="40" width="40" alt="Logo MongoDB" />
+  <img src="./Icons/graphql.svg" height="40" width="40" alt="Logo Graphql" />
+</div>
+
+<h2>Services</h2>
+<div align"center">
+  <img src="./Icons/git.svg" height="40" width="40" alt="Logo " />
+  <img src="./Icons/github.svg" height="40" width="40" alt="Logo " />
+  <img src="./Icons/vercel.svg" height="40" width="40" alt="Logo " />
+</div>
+
+<h2>Graphic Design</h2>
+<div align"center">
+  <img src="./Icons/illustrator.svg" height="40" width="40" alt="Logo " />
+  <img src="./Icons/adobe-xd.svg" height="40" width="40" alt="Logo " />
+  <img src="./Icons/figma.svg" height="40" width="40" alt="Logo " />
+</div>
+
 
 <br clear="both">
 
