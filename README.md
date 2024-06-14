@@ -1,13 +1,16 @@
 <!-- <img align="right" height="200" src="https://avatars.githubusercontent.com/u/107501858?v=4"  /> -->
+
+###
+
 <div style="display:flex; flex-direction:row-reverse; gap:1em;">
   <img style="border-radius: 25px;" height="250" width="250" src="./Images/Ander.jpg">
   
   <div>
     <h3 align="center">👋🏻 Hi! I am AnderCMD</h1>
     <h3 align="center">I am a software engineer with 2+ years of experience 💻</h3>
-  
-
   <br>
+
+  ###
 
   <div align="center" style="display:flex; gap:0.5em;">
     <a href="#" target="_blank">
@@ -41,6 +44,8 @@
   </div>
 </div>
 
+###
+
 <br clear="both">
 
 <h2 align="left">Technologies 💻</h2>
@@ -72,6 +77,8 @@
   </div>
 </div>
 
+###
+
 <div style="display:flex; justify-content:space-between; width:100%;">
   <div align="left">
     <h3>Languages 📖</h3>
@@ -89,6 +96,8 @@
     <img src="./Icons/graphql.svg" height="40" width="40" alt="Logo Graphql" />
   </div>
 </div>
+
+###
 
 <div style="display:flex; justify-content:space-between; width:100%;">
   <div align="left">
