@@ -48,7 +48,7 @@
 
 ###
 
-<h3>Languages</h3>
+<h3>Languages 📖</h3>
 <div align"center">
   <img src="./Icons/javascript.svg" height="40" width="40" alt="Logo Javascript" />
   <img src="./Icons/typescript.svg" height="40" width="40" alt="Logo Typescript" />
@@ -57,7 +57,7 @@
   <img src="./Icons/csharp.svg" height="40" width="40" alt="Logo C#" />
 </div>
 
-<h3>Frontend</h3>
+<h3>Frontend 🖥️</h3>
 <div align="left">
   <img src="./Icons/html5.svg" height="40" width="40" alt="Logo HTML" />
   <img src="./Icons/css.svg" height="40" width="40" alt="Logo CSS" />
@@ -68,7 +68,7 @@
   <img src="./Icons/vitejs.svg" height="40" width="40" alt="Logo ViteJS" />
 </div>
 
-<h3>Backend</h3>
+<h3>Backend 🧠</h3>
 <div align"center">
   <img src="./Icons/nodejs.svg" height="40" width="40" alt="Logo NodeJS" />
   <img src="./Icons/expressjs.svg" height="40" width="40" alt="Logo ExpressJS" />
@@ -76,21 +76,21 @@
   <img src="./Icons/android-icon.svg" height="40" width="40" alt="Logo Android Icon" />
 </div>
 
-<h3>Databases</h3>
+<h3>Databases 📊</h3>
 <div align"center">
   <img src="./Icons/mysql.svg" height="40" width="40" alt="Logo MySQL" />
   <img src="./Icons/mongodb.svg" height="40" width="40" alt="Logo MongoDB" />
   <img src="./Icons/graphql.svg" height="40" width="40" alt="Logo Graphql" />
 </div>
 
-<h3>Services</h3>
+<h3>Services ☁️</h3>
 <div align"center">
   <img src="./Icons/git.svg" height="40" width="40" alt="Logo " />
   <img src="./Icons/github.svg" height="40" width="40" alt="Logo " />
   <img src="./Icons/vercel.svg" height="40" width="40" alt="Logo " />
 </div>
 
-<h3>Graphic Design</h3>
+<h3>Graphic Design ✏️</h3>
 <div align"center">
   <img src="./Icons/illustrator.svg" height="40" width="40" alt="Logo " />
   <img src="./Icons/adobe-xd.svg" height="40" width="40" alt="Logo " />
