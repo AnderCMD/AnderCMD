@@ -1,39 +1,44 @@
 <!-- <img align="right" height="200" src="https://avatars.githubusercontent.com/u/107501858?v=4"  /> -->
-<img style="border-radius: 200px 200px 200px 200px;" align="right" height="200" width="200" src="./Images/Ander.jpg">
+<div style="display:flex; flex-direction:row-reverse; gap:1em;">
+  <img style="border-radius: 25px;" height="250" width="250" src="./Images/Ander.jpg">
+  
+  <div>
+    <h3 align="center">👋🏻 Hi! I am AnderCMD</h1>
+    <h3 align="center">I am a software engineer with 2+ years of experience 💻</h3>
+  
 
-<h1 align="center">👋🏻 Hi! I am AnderCMD</h1>
-<h3 align="center">I am a software engineer with 2+ years of experience 💻</h3>
+  <br>
 
-<br>
-
-<div align="center">
-  <a href="#" target="_blank">
-    <img src="./Icons/icons8-web-48.png" width="40" height="40" alt="Portfolio Icon"  />
-  </a>
-  <a href="https://github.com/AnderCMD" target="_blank">
-    <img src="./Icons/github.svg" width="40" height="40" alt="Github Logo"  />
-  </a>
-  <a href="https://www.twitch.tv/andercmds" target="_blank">
-    <img src="./Icons/twitch.svg" width="40" height="40" alt="Twitch Logo"  />
-  </a>
-  <a href="https://twitter.com/AnderCMDs" target="_blank">
-    <img src="./Icons/x.svg" width="40" height="40" alt="X Logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/andercmd/" target="_blank">
-    <img src="./Icons/linkedin.svg" width="40" height="40" alt="LinkedIn Logo"  />
-  </a>
-  <a href="mailto:andercmd@outlook.com" target="_blank">
-    <img src="./Icons/outlook.svg" width="40" height="40" alt="Correo Icon"  />
-  </a>
-  <a href="https://platzi.com/p/AnderCMD/" target="_blank">
-    <img src="./Icons/platzi.svg" width="40" height="40" alt="Platzi Logo"  />
-  </a>
-  <a href="https://developers.google.com/profile/u/AnderCMD" target="_blank">
-    <img src="./Icons/gdsc.svg" width="40" height="40" alt="Google Dev Logo"  />
-  </a>
-  <a href="https://learn.microsoft.com/es-es/users/andercmd/" target="_blank">
-    <img src="./Icons/microsoft.svg" width="40" height="40" alt="Microsoft Learn Logo"  />
-  </a>
+  <div align="center" style="display:flex; gap:0.5em;">
+    <a href="#" target="_blank">
+      <img src="./Icons/icons8-web-48.png" width="40" height="40" alt="Portfolio Icon"  />
+    </a>
+    <a href="https://github.com/AnderCMD" target="_blank">
+      <img src="./Icons/github.svg" width="40" height="40" alt="Github Logo"  />
+    </a>
+    <a href="https://www.twitch.tv/andercmds" target="_blank">
+      <img src="./Icons/twitch.svg" width="40" height="40" alt="Twitch Logo"  />
+    </a>
+    <a href="https://twitter.com/AnderCMDs" target="_blank">
+      <img src="./Icons/x.svg" width="40" height="40" alt="X Logo"  />
+    </a>
+    <a href="https://www.linkedin.com/in/andercmd/" target="_blank">
+      <img src="./Icons/linkedin.svg" width="40" height="40" alt="LinkedIn Logo"  />
+    </a>
+    <a href="mailto:andercmd@outlook.com" target="_blank">
+      <img src="./Icons/outlook.svg" width="40" height="40" alt="Correo Icon"  />
+    </a>
+    <a href="https://platzi.com/p/AnderCMD/" target="_blank">
+      <img src="./Icons/platzi.svg" width="40" height="40" alt="Platzi Logo"  />
+    </a>
+    <a href="https://developers.google.com/profile/u/AnderCMD" target="_blank">
+      <img src="./Icons/gdsc.svg" width="40" height="40" alt="Google Dev Logo"  />
+    </a>
+    <a href="https://learn.microsoft.com/es-es/users/andercmd/" target="_blank">
+      <img src="./Icons/microsoft.svg" width="40" height="40" alt="Microsoft Learn Logo"  />
+    </a>
+  </div>
+  </div>
 </div>
 
 <br clear="both">
