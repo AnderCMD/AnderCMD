@@ -1,12 +1,10 @@
 <!-- <img align="right" height="200" src="https://avatars.githubusercontent.com/u/107501858?v=4"  /> -->
-<img align="right" height="200" width="200" src="./Images/Ander.jpg">
-
-###
+<img style="border-radius: 200px 200px 200px 200px;" align="right" height="200" width="200" src="./Images/Ander.jpg">
 
 <h1 align="center">👋🏻 Hi! I am AnderCMD</h1>
 <h3 align="center">I am a software engineer with 2+ years of experience 💻</h3>
 
-###
+<br>
 
 <div align="center">
   <a href="#" target="_blank">
@@ -44,65 +42,63 @@
 
 ###
 
-<img align="right" height="200" width="300" src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2F3lkp9c2b1f2irda7gkya.gif" />
+<img style="object-fit:cover;" height="150" width="100%" src="./Images/Matrix.gif" />
 
 ###
 
-<div align="left">
-  <h3>Languages 📖</h3>
-  <img src="./Icons/javascript.svg" height="40" width="40" alt="Logo Javascript" />
-  <img src="./Icons/typescript.svg" height="40" width="40" alt="Logo Typescript" />
-  <img src="./Icons/java.svg" height="40" width="40" alt="Logo Java" />
-  <img src="./Icons/python.svg" height="40" width="40" alt="Logo Python" />
-  <img src="./Icons/csharp.svg" height="40" width="40" alt="Logo C#" />
+<div style="display:flex; justify-content:space-between; width:100%;">
+  <div align="left">
+    <h3>Frontend 🖥️</h3>
+    <img src="./Icons/html5.svg" height="40" width="40" alt="Logo HTML" />
+    <img src="./Icons/css.svg" height="40" width="40" alt="Logo CSS" />
+    <img src="./Icons/tailwindcss.svg" height="40" width="40" alt="Logo TailwindCSS" />
+    <img src="./Icons/flowbite.svg" height="40" width="40" alt="Logo Flowbite" />
+    <img src="./Icons/react.svg" height="40" width="40" alt="Logo React" />
+    <img src="./Icons/astro.svg" height="40" width="40" alt="Logo Astro" />
+    <img src="./Icons/vitejs.svg" height="40" width="40" alt="Logo ViteJS" />
+  </div>
+
+  <div align="right">
+    <h3>Backend 🧠</h3>
+    <img src="./Icons/nodejs.svg" height="40" width="40" alt="Logo NodeJS" />
+    <img src="./Icons/expressjs.svg" height="40" width="40" alt="Logo ExpressJS" />
+    <img src="./Icons/expo.svg" height="40" width="40" alt="Logo Expo" />
+    <img src="./Icons/android-icon.svg" height="40" width="40" alt="Logo Android Icon" />
+  </div>
 </div>
 
-<div align="left">
-  <h3>Frontend 🖥️</h3>
-  <img src="./Icons/html5.svg" height="40" width="40" alt="Logo HTML" />
-  <img src="./Icons/css.svg" height="40" width="40" alt="Logo CSS" />
-  <img src="./Icons/tailwindcss.svg" height="40" width="40" alt="Logo TailwindCSS" />
-  <img src="./Icons/flowbite.svg" height="40" width="40" alt="Logo Flowbite" />
-  <img src="./Icons/react.svg" height="40" width="40" alt="Logo React" />
-  <img src="./Icons/astro.svg" height="40" width="40" alt="Logo Astro" />
-  <img src="./Icons/vitejs.svg" height="40" width="40" alt="Logo ViteJS" />
+<div style="display:flex; justify-content:space-between; width:100%;">
+  <div align="left">
+    <h3>Languages 📖</h3>
+    <img src="./Icons/javascript.svg" height="40" width="40" alt="Logo Javascript" />
+    <img src="./Icons/typescript.svg" height="40" width="40" alt="Logo Typescript" />
+    <img src="./Icons/java.svg" height="40" width="40" alt="Logo Java" />
+    <img src="./Icons/python.svg" height="40" width="40" alt="Logo Python" />
+    <img src="./Icons/csharp.svg" height="40" width="40" alt="Logo C#" />
+  </div>
+
+  <div align="right">
+    <h3>Databases 📊</h3>
+    <img src="./Icons/mysql.svg" height="40" width="40" alt="Logo MySQL" />
+    <img src="./Icons/mongodb.svg" height="40" width="40" alt="Logo MongoDB" />
+    <img src="./Icons/graphql.svg" height="40" width="40" alt="Logo Graphql" />
+  </div>
 </div>
 
-###
+<div style="display:flex; justify-content:space-between; width:100%;">
+  <div align="left">
+    <h3>Services ☁️</h3>
+    <img src="./Icons/git.svg" height="40" width="40" alt="Logo " />
+    <img src="./Icons/github.svg" height="40" width="40" alt="Logo " />
+    <img src="./Icons/vercel.svg" height="40" width="40" alt="Logo " />
+  </div>
 
-<img align="left" height="200" width="300" src="https://bilginc.com/editorFiles/4fb239cb.gif" />
-
-<div align="right">
-  <h3>Backend 🧠</h3>
-  <img src="./Icons/nodejs.svg" height="40" width="40" alt="Logo NodeJS" />
-  <img src="./Icons/expressjs.svg" height="40" width="40" alt="Logo ExpressJS" />
-  <img src="./Icons/expo.svg" height="40" width="40" alt="Logo Expo" />
-  <img src="./Icons/android-icon.svg" height="40" width="40" alt="Logo Android Icon" />
-</div>
-
-<div align="right">
-  <h3>Databases 📊</h3>
-  <img src="./Icons/mysql.svg" height="40" width="40" alt="Logo MySQL" />
-  <img src="./Icons/mongodb.svg" height="40" width="40" alt="Logo MongoDB" />
-  <img src="./Icons/graphql.svg" height="40" width="40" alt="Logo Graphql" />
-</div>
-
-###
-
-<img align="right" height="200" width="300" src="https://camo.githubusercontent.com/9237c6573300eda5848c3bd7f296ea86c1e9d5d4249241502ba70ca4b2689052/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323036393430322f73637265656e73686f74732f353537343731382f6769662d346d622e676966" />
-
-<div align="left">
-  <h3>Services ☁️</h3>
-  <img src="./Icons/git.svg" height="40" width="40" alt="Logo " />
-  <img src="./Icons/github.svg" height="40" width="40" alt="Logo " />
-  <img src="./Icons/vercel.svg" height="40" width="40" alt="Logo " />
-</div>
-
-<div align="left">
-  <h3>Graphic Design ✏️</h3>
-  <img src="./Icons/illustrator.svg" height="40" width="40" alt="Logo " />
-  <img src="./Icons/adobe-xd.svg" height="40" width="40" alt="Logo " />
-  <img src="./Icons/figma.svg" height="40" width="40" alt="Logo " />
+  <div align="right">
+    <h3>Graphic Design ✏️</h3>
+    <img src="./Icons/illustrator.svg" height="40" width="40" alt="Logo " />
+    <img src="./Icons/adobe-xd.svg" height="40" width="40" alt="Logo " />
+    <img src="./Icons/figma.svg" height="40" width="40" alt="Logo " />
+  </div>
 </div>
 
 ###
