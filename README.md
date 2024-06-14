@@ -44,12 +44,12 @@
 
 ###
 
-<img align="left" height="150" width="100%" src="https://miro.medium.com/v2/resize:fit:1358/1*xZrSvUrS-6zQQBfevGed2w.gif" />
+<img align="right" height="200" width="300" src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2F3lkp9c2b1f2irda7gkya.gif" />
 
 ###
 
-<h3>Languages 📖</h3>
-<div align"center">
+<div align="left">
+  <h3>Languages 📖</h3>
   <img src="./Icons/javascript.svg" height="40" width="40" alt="Logo Javascript" />
   <img src="./Icons/typescript.svg" height="40" width="40" alt="Logo Typescript" />
   <img src="./Icons/java.svg" height="40" width="40" alt="Logo Java" />
@@ -57,8 +57,8 @@
   <img src="./Icons/csharp.svg" height="40" width="40" alt="Logo C#" />
 </div>
 
-<h3>Frontend 🖥️</h3>
 <div align="left">
+  <h3>Frontend 🖥️</h3>
   <img src="./Icons/html5.svg" height="40" width="40" alt="Logo HTML" />
   <img src="./Icons/css.svg" height="40" width="40" alt="Logo CSS" />
   <img src="./Icons/tailwindcss.svg" height="40" width="40" alt="Logo TailwindCSS" />
@@ -68,35 +68,44 @@
   <img src="./Icons/vitejs.svg" height="40" width="40" alt="Logo ViteJS" />
 </div>
 
-<h3>Backend 🧠</h3>
-<div align"center">
+###
+
+<img align="left" height="200" width="300" src="https://bilginc.com/editorFiles/4fb239cb.gif" />
+
+<div align="right">
+  <h3>Backend 🧠</h3>
   <img src="./Icons/nodejs.svg" height="40" width="40" alt="Logo NodeJS" />
   <img src="./Icons/expressjs.svg" height="40" width="40" alt="Logo ExpressJS" />
   <img src="./Icons/expo.svg" height="40" width="40" alt="Logo Expo" />
   <img src="./Icons/android-icon.svg" height="40" width="40" alt="Logo Android Icon" />
 </div>
 
-<h3>Databases 📊</h3>
-<div align"center">
+<div align="right">
+  <h3>Databases 📊</h3>
   <img src="./Icons/mysql.svg" height="40" width="40" alt="Logo MySQL" />
   <img src="./Icons/mongodb.svg" height="40" width="40" alt="Logo MongoDB" />
   <img src="./Icons/graphql.svg" height="40" width="40" alt="Logo Graphql" />
 </div>
 
-<h3>Services ☁️</h3>
-<div align"center">
+###
+
+<img align="right" height="200" width="300" src="https://camo.githubusercontent.com/9237c6573300eda5848c3bd7f296ea86c1e9d5d4249241502ba70ca4b2689052/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323036393430322f73637265656e73686f74732f353537343731382f6769662d346d622e676966" />
+
+<div align="left">
+  <h3>Services ☁️</h3>
   <img src="./Icons/git.svg" height="40" width="40" alt="Logo " />
   <img src="./Icons/github.svg" height="40" width="40" alt="Logo " />
   <img src="./Icons/vercel.svg" height="40" width="40" alt="Logo " />
 </div>
 
-<h3>Graphic Design ✏️</h3>
-<div align"center">
+<div align="left">
+  <h3>Graphic Design ✏️</h3>
   <img src="./Icons/illustrator.svg" height="40" width="40" alt="Logo " />
   <img src="./Icons/adobe-xd.svg" height="40" width="40" alt="Logo " />
   <img src="./Icons/figma.svg" height="40" width="40" alt="Logo " />
 </div>
 
+###
 
 <br clear="both">
 
