@@ -1,6 +1,6 @@
- ### <img align="right" height="200" width="200" src="./Images/Ander.jpg">
   
-<div>
+<div align="left">
+  <img align="right" height="200" width="200" src="./Images/Ander.jpg">
   <h1 align="center">👋🏻 Hi! I am AnderCMD
   <h3 align="center">I am a software engineer with 2+ years of experience 💻</h3>
 <div>
