@@ -1,7 +1,7 @@
   <img align="right" height="200" width="200" src="./Images/Ander.jpg">
   
   <div>
-    <h3 align="center">👋🏻 Hi! I am AnderCMD</h1>
+    <h1 align="center">👋🏻 Hi! I am AnderCMD</h1>
     <h3 align="center">I am a software engineer with 2+ years of experience 💻</h3>
   <div>
 
@@ -45,19 +45,19 @@
 <br clear="both">
 <div align="center">
 
-| 🖥️ Frontend |
-| --- |
-| <img src="./Icons/html5.svg" height="40" width="40" alt="Logo HTML" /> <img src="./Icons/css.svg" height="40" width="40" alt="Logo CSS" /> <img src="./Icons/tailwindcss.svg" height="40" width="40" alt="Logo TailwindCSS" /> <img src="./Icons/flowbite.svg" height="40" width="40" alt="Logo Flowbite" /> <img src="./Icons/react.svg" height="40" width="40" alt="Logo React" /> <img src="./Icons/astro.svg" height="40" width="40" alt="Logo Astro" /> <img src="./Icons/vitejs.svg" height="40" width="40" alt="Logo ViteJS" /> |
-| 🧠 Backend |
-| <img src="./Icons/nodejs.svg" height="40" width="40" alt="Logo NodeJS" /> <img src="./Icons/expressjs.svg" height="40" width="40" alt="Logo ExpressJS" /> <img src="./Icons/expo.svg" height="40" width="40" alt="Logo Expo" /> <img src="./Icons/android-icon.svg" height="40" width="40" alt="Logo Android Icon" /> |
-| 📖 Languages |
-| <img src="./Icons/javascript.svg" height="40" width="40" alt="Logo Javascript" /> <img src="./Icons/typescript.svg" height="40" width="40" alt="Logo Typescript" /> <img src="./Icons/java.svg" height="40" width="40" alt="Logo Java" /> <img src="./Icons/python.svg" height="40" width="40" alt="Logo Python" /> <img src="./Icons/csharp.svg" height="40" width="40" alt="Logo C#" /> |
-| 📊 Databases |
-| <img src="./Icons/mysql.svg" height="40" width="40" alt="Logo MySQL" /> <img src="./Icons/mongodb.svg" height="40" width="40" alt="Logo MongoDB" /> <img src="./Icons/graphql.svg" height="40" width="40" alt="Logo Graphql" /> |
-| ☁️ Services |
-| <img src="./Icons/git.svg" height="40" width="40" alt="Logo Git " /> <img src="./Icons/github.svg" height="40" width="40" alt="Logo Github" /> <img src="./Icons/vercel.svg" height="40" width="40" alt="Logo Vercel" /> |
-| ✏️ Graphic Design |
-| <img src="./Icons/illustrator.svg" height="40" width="40" alt="Logo " /> <img src="./Icons/adobe-xd.svg" height="40" width="40" alt="Logo " /> <img src="./Icons/figma.svg" height="40" width="40" alt="Logo " /> |
+  | 🖥️ Frontend |
+  | --- |
+  | <img src="./Icons/html5.svg" height="40" width="40" alt="Logo HTML" /> <img src="./Icons/css.svg" height="40" width="40" alt="Logo CSS" /> <img src="./Icons/tailwindcss.svg" height="40" width="40" alt="Logo TailwindCSS" /> <img src="./Icons/flowbite.svg" height="40" width="40" alt="Logo Flowbite" /> <img src="./Icons/react.svg" height="40" width="40" alt="Logo React" /> <img src="./Icons/astro.svg" height="40" width="40" alt="Logo Astro" /> <img src="./Icons/vitejs.svg" height="40" width="40" alt="Logo ViteJS" /> |
+  | 🧠 Backend |
+  | <img src="./Icons/nodejs.svg" height="40" width="40" alt="Logo NodeJS" /> <img src="./Icons/expressjs.svg" height="40" width="40" alt="Logo ExpressJS" /> <img src="./Icons/expo.svg" height="40" width="40" alt="Logo Expo" /> <img src="./Icons/android-icon.svg" height="40" width="40" alt="Logo Android Icon" /> |
+  | 📖 Languages |
+  | <img src="./Icons/javascript.svg" height="40" width="40" alt="Logo Javascript" /> <img src="./Icons/typescript.svg" height="40" width="40" alt="Logo Typescript" /> <img src="./Icons/java.svg" height="40" width="40" alt="Logo Java" /> <img src="./Icons/python.svg" height="40" width="40" alt="Logo Python" /> <img src="./Icons/csharp.svg" height="40" width="40" alt="Logo C#" /> |
+  | 📊 Databases |
+  | <img src="./Icons/mysql.svg" height="40" width="40" alt="Logo MySQL" /> <img src="./Icons/mongodb.svg" height="40" width="40" alt="Logo MongoDB" /> <img src="./Icons/graphql.svg" height="40" width="40" alt="Logo Graphql" /> |
+  | ☁️ Services |
+  | <img src="./Icons/git.svg" height="40" width="40" alt="Logo Git " /> <img src="./Icons/github.svg" height="40" width="40" alt="Logo Github" /> <img src="./Icons/vercel.svg" height="40" width="40" alt="Logo Vercel" /> |
+  | ✏️ Graphic Design |
+  | <img src="./Icons/illustrator.svg" height="40" width="40" alt="Logo " /> <img src="./Icons/adobe-xd.svg" height="40" width="40" alt="Logo " /> <img src="./Icons/figma.svg" height="40" width="40" alt="Logo " /> |
 
 </div>
 
