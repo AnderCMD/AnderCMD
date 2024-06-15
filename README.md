@@ -42,9 +42,10 @@
 
 <br clear="both">
 <div align="center">
-
-  | **🖥️ Frontend** |
+  
+  | ● Technologies ● |
   | --- |
+  | **🖥️ Frontend** |
   | <img src="./Icons/html5.svg" height="40" width="40" alt="Logo HTML" /> <img src="./Icons/css.svg" height="40" width="40" alt="Logo CSS" /> <img src="./Icons/tailwindcss.svg" height="40" width="40" alt="Logo TailwindCSS" /> <img src="./Icons/flowbite.svg" height="40" width="40" alt="Logo Flowbite" /> <img src="./Icons/react.svg" height="40" width="40" alt="Logo React" /> <img src="./Icons/astro_dark.svg" height="40" width="40" alt="Logo Astro" /> <img src="./Icons/vitejs.svg" height="40" width="40" alt="Logo ViteJS" /> |
   | **🧠 Backend** |
   | <img src="./Icons/nodejs.svg" height="40" width="40" alt="Logo NodeJS" /> <img src="./Icons/expressjs_dark.svg" height="40" width="40" alt="Logo ExpressJS" /> <img src="./Icons/expo.svg" height="40" width="40" alt="Logo Expo" /> <img src="./Icons/android-icon.svg" height="40" width="40" alt="Logo Android Icon" /> |
