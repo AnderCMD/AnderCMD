@@ -5,6 +5,8 @@
   <h3 align="center">I am a software engineer with 2+ years of experience 💻</h3>
 <div>
 
+---
+
 <div align="center">
   <a href="#" target="_blank">
     <img src="./Icons/icons8-web-48.png" width="40" height="40" alt="Portfolio Icon"  />
