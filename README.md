@@ -1,7 +1,5 @@
   
-<h1 align="center">👋🏻 Hi! I am AnderCMD
-
----
+# <p align="center">👋🏻 Hi! I am AnderCMD</p>
 
 <div align="left">
   <img align="right" height="200" width="200" src="./Images/Ander.jpg">
