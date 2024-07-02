@@ -72,3 +72,7 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/AnderCMD/AnderCMD/output/snake.svg" alt="Snake animation" />
+
+## #30NitesOfCode Codédex:
+  [Check out my progress!](https://www.codedex.io/@AnderCMD/30-nites-of-code)  
+  ![@AnderCMD #30NitesOfCode](https://www.codedex.io/api/petStatus?user=AnderCMD)
