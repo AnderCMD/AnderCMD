@@ -27,9 +27,6 @@
   <a href="mailto:andercmd@outlook.com" target="_blank">
     <img src="./Icons/outlook.svg" width="40" height="40" alt="Correo Icon"  />
   </a>
-  <a href="https://platzi.com/p/AnderCMD/" target="_blank">
-    <img src="./Icons/platzi.svg" width="40" height="40" alt="Platzi Logo"  />
-  </a>
   <a href="https://developers.google.com/profile/u/AnderCMD" target="_blank">
     <img src="./Icons/gdsc.svg" width="40" height="40" alt="Google Dev Logo"  />
   </a>
