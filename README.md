@@ -53,7 +53,7 @@
 
 
 ## Technology Stack 💻
-<table><tr><td valign="top" width="50%">
+<table align="center"><tr><td valign="top" width="100%">
 
 
 
