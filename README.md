@@ -1,64 +1,131 @@
+<div align="center">
+<img src="https://img.itch.zone/aW1hZ2UvMTY1MjM4MC85NzIxODE4LmdpZg==/original/iLZyQY.gif" align="center" height="150" width="600" />
+</div>  
   
-# <p align="center">👋🏻 Hi! I am AnderCMD</p>
 
-<div align="left">
-  <img align="right" height="200" width="200" src="./Images/Ander.jpg">
-  <h3 align="center">I am a software engineer with 2+ years of experience 💻</h3>
-<div>
+# <div align="center">Hello 👋🏻, I'm AnderCMD</div>  
+  
 
----
+#### *<div align="center">Full Stack Software Engineer focused on web development with +2 years of experience</div>*  
+  
 
 <div align="center">
-  <a href="https://andercmd.dev" target="_blank">
-    <img src="./Icons/icons8-web-48.png" width="40" height="40" alt="Portfolio Icon"  />
-  </a>
-  <a href="https://github.com/AnderCMD" target="_blank">
-    <img src="./Icons/github.svg" width="40" height="40" alt="Github Logo"  />
-  </a>
-  <a href="https://www.twitch.tv/andercmds" target="_blank">
-    <img src="./Icons/twitch.svg" width="40" height="40" alt="Twitch Logo"  />
-  </a>
-  <a href="https://twitter.com/AnderCMDs" target="_blank">
-    <img src="./Icons/x.svg" width="40" height="40" alt="X Logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/andercmd/" target="_blank">
-    <img src="./Icons/linkedin.svg" width="40" height="40" alt="LinkedIn Logo"  />
-  </a>
-  <a href="mailto:andercmd@outlook.com" target="_blank">
-    <img src="./Icons/outlook.svg" width="40" height="40" alt="Correo Icon"  />
-  </a>
-  <a href="https://developers.google.com/profile/u/AnderCMD" target="_blank">
-    <img src="./Icons/gdsc.svg" width="40" height="40" alt="Google Dev Logo"  />
-  </a>
-  <a href="https://learn.microsoft.com/es-es/users/andercmd/" target="_blank">
-    <img src="./Icons/microsoft.svg" width="40" height="40" alt="Microsoft Learn Logo"  />
-  </a>
-</div>
-
-<br clear="both">
-
-## Technologies 💻
-<img style="object-fit:cover;" height="150" width="100%" src="./Images/Matrix.gif" />
-
-<br clear="both">
-<div align="center">
+<a href="https://github.com/https://github.com/AnderCMD" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/https://x.com/AnderCMDs" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/https://dev.to/andercmd" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/https://codepen.io/AnderCMD" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21162451/andercmd" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/andercmd/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/https://www.youtube.com/@AnderCMD" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
   
-  | ● Technologies ● |
-  | --- |
-  | **🖥️ Frontend** |
-  | <img src="./Icons/html5.svg" height="40" width="40" alt="Logo HTML" /> <img src="./Icons/css.svg" height="40" width="40" alt="Logo CSS" /> <img src="./Icons/tailwindcss.svg" height="40" width="40" alt="Logo TailwindCSS" /> <img src="./Icons/flowbite.svg" height="40" width="40" alt="Logo Flowbite" /> <img src="./Icons/react.svg" height="40" width="40" alt="Logo React" /> <img src="./Icons/astro_dark.svg" height="40" width="40" alt="Logo Astro" /> <img src="./Icons/vitejs.svg" height="40" width="40" alt="Logo ViteJS" /> |
-  | **🧠 Backend** |
-  | <img src="./Icons/nodejs.svg" height="40" width="40" alt="Logo NodeJS" /> <img src="./Icons/expressjs_dark.svg" height="40" width="40" alt="Logo ExpressJS" /> <img src="./Icons/expo.svg" height="40" width="40" alt="Logo Expo" /> <img src="./Icons/android-icon.svg" height="40" width="40" alt="Logo Android Icon" /> |
-  | **📖 Languages** |
-  | <img src="./Icons/javascript.svg" height="40" width="40" alt="Logo Javascript" /> <img src="./Icons/typescript.svg" height="40" width="40" alt="Logo Typescript" /> <img src="./Icons/java.svg" height="40" width="40" alt="Logo Java" /> <img src="./Icons/python.svg" height="40" width="40" alt="Logo Python" /> <img src="./Icons/csharp.svg" height="40" width="40" alt="Logo C#" /> |
-  | **📊 Databases** |
-  | <img src="./Icons/mysql.svg" height="40" width="40" alt="Logo MySQL" /> <img src="./Icons/mongodb.svg" height="40" width="40" alt="Logo MongoDB" /> <img src="./Icons/graphql.svg" height="40" width="40" alt="Logo Graphql" /> |
-  | **☁️ Services** |
-  | <img src="./Icons/git.svg" height="40" width="40" alt="Logo Git " /> <img src="./Icons/github.svg" height="40" width="40" alt="Logo Github" /> <img src="./Icons/vercel_dark.svg" height="40" width="40" alt="Logo Vercel" /> |
-  | **✏️ Graphic Design** |
-  | <img src="./Icons/illustrator.svg" height="40" width="40" alt="Logo " /> <img src="./Icons/adobe-xd.svg" height="40" width="40" alt="Logo " /> <img src="./Icons/figma.svg" height="40" width="40" alt="Logo " /> |
 
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=AnderCMD&&style=flat-square" align="center" />
+</div>  
+  
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/AnderCMD" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>  
+
+<br/>  
+
+
+## Technology Stack 💻
+<table><tr><td valign="top" width="50%">
+
+
+
+### Languages  
+<div align="center">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 </div>
+
+</td><td valign="top" width="50%">
+
+
+
+### Frameworks  
+<div align="center">  
+<a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+<table><tr><td valign="top" width="33%">
+
+
+
+### Databases  
+<div align="center">  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Design  
+<div align="center">  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
 
 <br clear="both">
 
