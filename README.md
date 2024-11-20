@@ -3,10 +3,10 @@
 </div>  
   
 
-# <div align="center">Hello 👋🏻, I'm AnderCMD</div>  
+# <div align="center">Hola 👋🏻 Soy AnderCMD 💻</div>  
   
 
-#### *<div align="center">Full Stack Software Engineer focused on web development with +2 years of experience</div>*  
+#### *<div align="center">Ingeniero en Software Full Stack enfocado en desarrollo web con +2 años de experiencia</div>*  
   
 
 <div align="center">
@@ -52,12 +52,12 @@
 <br/>  
 
 
-## Technology Stack 💻
+## <div align="center">💻 Stack Tecnológico 💻</div>  
 <table align="center"><tr><td valign="top" width="100%">
 
 
 
-### <h3 align="center">Languages</h3>
+### <h3 align="center">Lenguajes</h3>
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -82,7 +82,7 @@
 
 <br/>  
 
-### <h3 align="center">Databases</h3> 
+### <h3 align="center">Bases de datos</h3> 
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
@@ -97,7 +97,7 @@
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 </div>
 
-### <h3 align="center">Design</h3>
+### <h3 align="center">Diseño</h3>
 <div align="center">  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
@@ -110,7 +110,7 @@
 
 <br clear="both">
 
-## Statistics🏅
+## <div align="center">📊 Estadísticas 📊</div>  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnderCMD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=AnderCMD&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
