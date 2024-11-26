@@ -121,40 +121,44 @@
   </div>
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="text-align: center;">
-    <img style="margin: 5px; border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" />
-    <p>MongoDB</p>
-  </div>
-  <div style="text-align: center;">
-    <img style="margin: 5px; border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" height="50" />
-    <p>Firebase</p>
-  </div>
-  <div style="text-align: center;">
-    <img style="margin: 5px; border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="50" />
-    <p>Git</p>
-  </div>
-  <div style="text-align: center;">
-    <img style="margin: 5px; border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" height="50" />
-    <p>Github</p>
-  </div>
-  <div style="text-align: center;">
-    <img style="margin: 5px; border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" height="50" />
-    <p>Vercel</p>
-  </div>
-  <div style="text-align: center;">
-    <img style="margin: 5px; border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
-    <p>AWS</p>
-  </div>
-  <div style="text-align: center;">
-    <img style="margin: 5px; border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" height="50" />
-    <p>Azure</p>
-  </div>
-  <div style="text-align: center;">
-    <img style="margin: 5px; border-radius: 10px;" src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" alt="Hostinger" height="50" />
-    <p>Hostinger</p>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" />
+      <p>MongoDB</p>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" height="50" />
+      <p>Firebase</p>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="50" />
+      <p>Git</p>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" height="50" />
+      <p>Github</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" height="50" />
+      <p>Vercel</p>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
+      <p>AWS</p>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" height="50" />
+      <p>Azure</p>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img style="border-radius: 10px;" src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" alt="Hostinger" height="50" />
+      <p>Hostinger</p>
+    </td>
+  </tr>
+</table>
 
 
 <br/>  
