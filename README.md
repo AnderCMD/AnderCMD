@@ -55,15 +55,15 @@
 ## <div align="center">💻 Stack Tecnológico 💻</div>  
 
 <div align="center">
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  <div style="display: flex; text-align: center; margin: 10px;">
     <img style="margin: 5px; border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="50" />
     <p>HTML</p>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  <div style="display: flex; text-align: center; margin: 10px;">
     <img style="margin: 5px; border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="50" />
     <p>CSS</p>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  <div style="display: flex; text-align: center; margin: 10px;">
     <img style="margin: 5px; border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
     <p>JavaScript</p>
   </div>
@@ -121,36 +121,36 @@
   </div>
 </div>
 
-<div align="center">
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
     <img style="margin: 5px; border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" />
     <p>MongoDB</p>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  <div style="text-align: center;">
     <img style="margin: 5px; border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" height="50" />
     <p>Firebase</p>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  <div style="text-align: center;">
     <img style="margin: 5px; border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="50" />
     <p>Git</p>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  <div style="text-align: center;">
     <img style="margin: 5px; border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" height="50" />
     <p>Github</p>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  <div style="text-align: center;">
     <img style="margin: 5px; border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" height="50" />
     <p>Vercel</p>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  <div style="text-align: center;">
     <img style="margin: 5px; border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
     <p>AWS</p>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  <div style="text-align: center;">
     <img style="margin: 5px; border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" height="50" />
     <p>Azure</p>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  <div style="text-align: center;">
     <img style="margin: 5px; border-radius: 10px;" src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" alt="Hostinger" height="50" />
     <p>Hostinger</p>
   </div>
