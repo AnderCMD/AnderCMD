@@ -6,7 +6,7 @@
 # <div align="center">Hola 👋🏻 Soy AnderCMD 💻</div>  
   
 
-#### *<div align="center">Ingeniero en Software Full Stack enfocado en desarrollo web con +2 años de experiencia</div>*  
+### *<div align="center">Ingeniero en Software Full Stack enfocado en desarrollo web con +2 años de experiencia</div>*  
   
 
 <div align="center">
