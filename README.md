@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://img.itch.zone/aW1hZ2UvMTY1MjM4MC85NzIxODE4LmdpZg==/original/iLZyQY.gif" align="center" height="150" width="100%" />
+<img src="https://github.com/AnderCMD/AnderCMD/blob/main/Images/AnderCMD.png" align="center" height="315" width="100%" />
 </div>  
   
 
