@@ -10,11 +10,17 @@
   
 
 <div align="center">
+  <a href="mailto:andercmd@outlook.com" target="_blank">
+  <img src=https://img.shields.io/badge/email-%230077b5.svg?&style=for-the-badge&logo=microsoftoutlook&logoColor=white alt=Email style="margin-bottom: 5px;" />
+  </a>
   <a href="https://github.com/AnderCMD" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=Github style="margin-bottom: 5px;" />
   </a>
-  <a href="https://twitter.com/AnderCMDs" target="_blank">
-  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Twitter-X style="margin-bottom: 5px;" />
+  <a href="https://linkedin.com/in/andercmd" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://x.com/AnderCMDs" target="_blank">
+  <img src=https://img.shields.io/badge/x-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white alt=X style="margin-bottom: 5px;" />
   </a>
   <a href="https://dev.to/andercmd" target="_blank">
   <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=Dev.to style="margin-bottom: 5px;" />
@@ -25,13 +31,11 @@
   <a href="https://stackoverflow.com/users/21162451/andercmd" target="_blank">
   <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=Stack-Overflow style="margin-bottom: 5px;" />
   </a>
-  <a href="https://linkedin.com/in/andercmd" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
+  <a href="https://www.hackerrank.com/profile/andercmd" target="_blank">
+  <img src=https://img.shields.io/badge/hackerrank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white alt=HackerRank style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.youtube.com/@AnderCMD" target="_blank">
-  <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=Youtube style="margin-bottom: 5px;" />
-  </a>  
-</div>  
+</div>
+
   
 
 <br/>  
