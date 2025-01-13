@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/AnderCMD/AnderCMD/blob/main/Images/AnderCMD.png" align="center" height="315" width="100%" />
+<img src="/Images/AnderCMD.png" align="center" height="315" width="100%" />
 </div>  
   
 
@@ -85,6 +85,12 @@
       <p>Python</p>
     </td>
     <td align="center" style="padding: 10px;">
+      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+        <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="50" />
+        <p>C#</p>
+      </a>
+</td>
+    <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="50" />
       <p>React</p>
     </td>
@@ -101,10 +107,6 @@
     <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" height="50" />
       <p>NextJS</p>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" height="50" />
-      <p>NodeJS</p>
     </td>
     <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" height="50" />
@@ -133,16 +135,16 @@
       <p>MongoDB</p>
     </td>
     <td align="center" style="padding: 10px;">
-      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" height="50" />
-      <p>Firebase</p>
-    </td>
-    <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="50" />
       <p>Git</p>
     </td>
     <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" height="50" />
       <p>Github</p>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="50" />
+      <p>Docker</p>
     </td>
     <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" height="50" />
