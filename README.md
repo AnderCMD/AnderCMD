@@ -109,7 +109,7 @@
       <p>NextJS</p>
     </td>
     <td align="center" style="padding: 10px;">
-      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" height="50" />
+      <img style="border-radius: 10px; filter: invert(100%);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" height="50" />
       <p>Express</p>
     </td>
     <td align="center" style="padding: 10px;">
@@ -139,15 +139,17 @@
       <p>Git</p>
     </td>
     <td align="center" style="padding: 10px;">
-      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" height="50" />
-      <p>Github</p>
+      <a href="https://github.com/">
+        <img style="border-radius: 10px; filter: invert(100%);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="50" />
+        <p>GitHub</p>
+      </a>
     </td>
     <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="50" />
       <p>Docker</p>
     </td>
     <td align="center" style="padding: 10px;">
-      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" height="50" />
+      <img style="border-radius: 10px; filter: invert(100%);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" height="50" />
       <p>Vercel</p>
     </td>
     <td align="center" style="padding: 10px;">
