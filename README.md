@@ -89,17 +89,17 @@
         <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="50" />
         <p>C#</p>
       </a>
-</td>
+    </td>
     <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="50" />
       <p>React</p>
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" height="50" />
       <p>Astro</p>
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" height="50" />
       <p>TailwindCSS</p>
