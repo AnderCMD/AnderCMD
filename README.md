@@ -97,7 +97,7 @@
   </tr>
   <tr>
     <td align="center" style="padding: 10px;">
-      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" height="50" />
+      <img style="border-radius: 10px;" src="/Images/Astro.png" alt="Astro" height="50" />
       <p>Astro</p>
     </td>
     <td align="center" style="padding: 10px;">
@@ -139,17 +139,15 @@
       <p>Git</p>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://github.com/">
-        <img style="border-radius: 10px; filter: invert(100%);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="50" />
-        <p>GitHub</p>
-      </a>
+      <img style="border-radius: 10px;" src="/Images/Github.png" alt="GitHub" height="50" />
+      <p>GitHub</p>
     </td>
     <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="50" />
       <p>Docker</p>
     </td>
     <td align="center" style="padding: 10px;">
-      <img style="border-radius: 10px; filter: invert(100%);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" height="50" />
+      <img style="border-radius: 10px;" src="/Images/Vercel.png" alt="Vercel" height="50" />
       <p>Vercel</p>
     </td>
     <td align="center" style="padding: 10px;">
