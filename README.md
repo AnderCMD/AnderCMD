@@ -85,10 +85,8 @@
       <p>Python</p>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-        <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="50" />
-        <p>C#</p>
-      </a>
+      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="50" />
+      <p>C#</p>
     </td>
     <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="50" />
