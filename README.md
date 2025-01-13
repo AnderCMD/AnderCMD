@@ -151,7 +151,7 @@
       <p>Vercel</p>
     </td>
     <td align="center" style="padding: 10px;">
-      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
+      <img style="border-radius: 10px;" src="/Images/AWS.png" alt="AWS" height="50" />
       <p>AWS</p>
     </td>
     <td align="center" style="padding: 10px;">
