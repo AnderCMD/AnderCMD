@@ -77,10 +77,6 @@
       <p>TypeScript</p>
     </td>
     <td align="center" style="padding: 10px;">
-      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="50" />
-      <p>Java</p>
-    </td>
-    <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50" />
       <p>Python</p>
     </td>
@@ -91,6 +87,10 @@
     <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="50" />
       <p>React</p>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="50" />
+      <p>React Native</p>
     </td>
   </tr>
   <tr>
@@ -151,10 +151,6 @@
     <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="/Images/AWS.png" alt="AWS" height="50" />
       <p>AWS</p>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" height="50" />
-      <p>Azure</p>
     </td>
     <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" alt="Hostinger" height="50" />
