@@ -171,6 +171,8 @@
 </div>
 
 ## <div align="center">🗺️ Roadmaps 🗺️</div>
-[![roadmap.sh](https://roadmap.sh/card/wide/67bbd7e6a8c88d6e353c7d4a?variant=dark&roadmaps=full-stack%2Cbackend%2Cfrontend)](https://roadmap.sh)
+## <div align="center">[![roadmap.sh](https://roadmap.sh/card/tall/67bbd7e6a8c88d6e353c7d4a?variant=dark&roadmaps=full-stack%2Cfrontend%2Cbackend%2Cdevops)](https://roadmap.sh) [![roadmap.sh](https://roadmap.sh/card/wide/67bbd7e6a8c88d6e353c7d4a?variant=dark&roadmaps=full-stack%2Cbackend%2Cfrontend)](https://roadmap.sh)</div>
+
+
 
 <img src="https://raw.githubusercontent.com/AnderCMD/AnderCMD/output/snake.svg" alt="Snake animation" />
