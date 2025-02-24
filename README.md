@@ -170,4 +170,8 @@
   <img src="https://streak-stats.demolab.com?user=AnderCMD&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+## <div align="center">🗺️ Roadmaps 🗺️</div>
+
+[![roadmap.sh](https://roadmap.sh/card/wide/67bbd7e6a8c88d6e353c7d4a?variant=dark&roadmaps=full-stack%2Cbackend%2Cfrontend)](https://roadmap.sh)
+
 <img src="https://raw.githubusercontent.com/AnderCMD/AnderCMD/output/snake.svg" alt="Snake animation" />
