@@ -172,8 +172,8 @@
 
 ## <div align="center">🗺️ Roadmaps 🗺️</div>
 ## <div align="center">
-  [![roadmap.sh](https://roadmap.sh/card/tall/67bbd7e6a8c88d6e353c7d4a?variant=dark&roadmaps=full-stack%2Cfrontend%2Cbackend%2Cdevops)](https://roadmap.sh)
-  [![roadmap.sh](https://roadmap.sh/card/wide/67bbd7e6a8c88d6e353c7d4a?variant=dark)](https://roadmap.sh)
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67bbd7e6a8c88d6e353c7d4a?variant=dark&roadmaps=frontend%2Cbackend%2Cfull-stack%2Cdevops" alt="roadmap.sh"/></a>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67bbd7e6a8c88d6e353c7d4a?variant=dark&roadmaps=frontend%2Cbackend%2Cfull-stack%2Cdevops" alt="roadmap.sh"/></a>
 </div>
 
 
