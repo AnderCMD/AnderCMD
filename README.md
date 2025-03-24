@@ -115,10 +115,6 @@
       <p>NestJS</p>
     </td>
     <td align="center" style="padding: 10px;">
-      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" height="50" />
-      <p>GraphQL</p>
-    </td>
-    <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="50" />
       <p>MySQL</p>
     </td>
@@ -126,12 +122,12 @@
       <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50" />
       <p>PostgreSQL</p>
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" />
       <p>MongoDB</p>
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="50" />
       <p>Git</p>
