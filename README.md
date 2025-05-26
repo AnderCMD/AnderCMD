@@ -103,10 +103,6 @@
       <p>TailwindCSS</p>
     </td>
     <td align="center" style="padding: 10px;">
-      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" height="50" />
-      <p>NextJS</p>
-    </td>
-    <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px; filter: invert(100%);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" height="50" />
       <p>Express</p>
     </td>
@@ -126,12 +122,12 @@
       <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" />
       <p>MongoDB</p>
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="50" />
       <p>Git</p>
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="/Images/Github.png" alt="GitHub" height="50" />
       <p>GitHub</p>
