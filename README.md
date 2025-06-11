@@ -89,11 +89,15 @@
       <p>React</p>
     </td>
     <td align="center" style="padding: 10px;">
-      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="50" />
-      <p>React Native</p>
+      <img style="border-radius: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" alt=".Net" height="50" />
+      <p>.Net</p>
     </td>
   </tr>
   <tr>
+    <td align="center" style="padding: 10px;">
+      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="50" />
+      <p>React Native</p>
+    </td>
     <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="/Images/Astro.png" alt="Astro" height="50" />
       <p>Astro</p>
@@ -122,12 +126,12 @@
       <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" />
       <p>MongoDB</p>
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="50" />
       <p>Git</p>
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="/Images/Github.png" alt="GitHub" height="50" />
       <p>GitHub</p>
