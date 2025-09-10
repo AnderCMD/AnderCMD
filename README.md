@@ -89,15 +89,11 @@
       <p>React</p>
     </td>
     <td align="center" style="padding: 10px;">
-      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="50" />
-      <p>React Native</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="/Images/Astro.png" alt="Astro" height="50" />
       <p>Astro</p>
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" height="50" />
       <p>TailwindCSS</p>
@@ -121,6 +117,10 @@
     <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50" />
       <p>PostgreSQL</p>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="MongoDB" height="50" />
+      <p>SQL Server</p>
     </td>
     <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" />
