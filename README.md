@@ -149,6 +149,10 @@
       <p>AWS</p>
     </td>
     <td align="center" style="padding: 10px;">
+      <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="AWS" height="50" />
+      <p>Azure</p>
+    </td>
+    <td align="center" style="padding: 10px;">
       <img style="border-radius: 10px;" src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" alt="Hostinger" height="50" />
       <p>Hostinger</p>
     </td>
