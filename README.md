@@ -44,7 +44,7 @@ const ander: Developer = {
 	nombre: 'Ander González',
 	alias: 'AnderCMD',
 	rol: 'Full Stack Developer & Software Engineer',
-	ubicación: '🌎',
+	ubicación: 'México',
 	especialidades: [
 		'Desarrollo Web Full Stack',
 		'Arquitectura de Software',
