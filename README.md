@@ -1,13 +1,13 @@
 <div align="center">
 <img src="/Images/AnderCMD.png" align="center" height="315" width="100%" />
 </div>  
-  
 
-# <div align="center">Hola 👋🏻 Soy Ander González 💻 (AnderCMD)</div>  
-  
-### <div align="center">Ctrl the code ⌨️ Ctrl the world 🌎</div>  
-### <div align="center">💻 Ingeniero en Software | 📚 Full Stack Developer | 💡Especialista en Desarrollo Web y DevOps</div>  
-  
+
+# <div align="center">Hola 👋🏻 Soy Ander González 💻 (AnderCMD)</div>
+
+### <div align="center">Ctrl the code ⌨️ Ctrl the world 🌎</div>
+
+### <div align="center">💻 Ingeniero en Software | 📚 Full Stack Developer | 💡Especialista en Desarrollo Web y DevOps</div>
 
 <div align="center">
   <a href="mailto:andercmd@outlook.com" target="_blank">
@@ -34,16 +34,17 @@
   <a href="https://www.hackerrank.com/profile/andercmd" target="_blank">
   <img src=https://img.shields.io/badge/hackerrank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white alt=HackerRank style="margin-bottom: 5px;" />
   </a>
+  <a href="https://www.npmjs.com/~andercmd" target="_blank">
+  <img src=https://img.shields.io/badge/npm-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white alt=npm style="margin-bottom: 5px;" />
+  </a>
 </div>
 
-  
-
-<br/>  
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AnderCMD&&style=flat-square" align="center" />
 </div>  
-  
+
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/AnderCMD" target="_blank" style="display: inline-block;">
@@ -51,12 +52,11 @@
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
                 />
-            </a></div>  
+            </a></div>
 
-<br/>  
+<br/>
 
-
-## <div align="center">💻 Stack Tecnológico 💻</div>  
+## <div align="center">💻 Stack Tecnológico 💻</div>
 
 <table align="center">
   <tr>
@@ -159,23 +159,24 @@
   </tr>
 </table>
 
-
-<br/>  
+<br/>
 
 <br clear="both">
 
-## <div align="center">📊 Estadísticas 📊</div>  
+## <div align="center">📊 Estadísticas 📊</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnderCMD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=AnderCMD&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ## <div align="center">🗺️ Roadmaps 🗺️</div>
+
 ## <div align="center">
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67bbd7e6a8c88d6e353c7d4a?variant=dark&roadmaps=frontend%2Cbackend%2Cfull-stack%2Cdevops" alt="roadmap.sh"/></a>
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67bbd7e6a8c88d6e353c7d4a?variant=dark&roadmaps=frontend%2Cbackend%2Cfull-stack%2Cdevops" alt="roadmap.sh"/></a>
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67bbd7e6a8c88d6e353c7d4a?variant=dark&roadmaps=frontend%2Cbackend%2Cfull-stack%2Cdevops" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67bbd7e6a8c88d6e353c7d4a?variant=dark&roadmaps=frontend%2Cbackend%2Cfull-stack%2Cdevops" alt="roadmap.sh"/></a>
+
 </div>
-
-
 
 <img src="https://raw.githubusercontent.com/AnderCMD/AnderCMD/output/snake.svg" alt="Snake animation" />
