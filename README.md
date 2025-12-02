@@ -40,8 +40,8 @@
 ## 👨‍💻 Sobre Mí
 
 ```typescript
-const ander: Developer = {
-	nombre: 'Ander González',
+const AnderCMD: Developer = {
+	nombre: 'Ander González González',
 	alias: 'AnderCMD',
 	rol: 'Full Stack Developer & Software Engineer',
 	ubicación: 'México',
