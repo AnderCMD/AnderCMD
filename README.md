@@ -20,19 +20,33 @@
 ## 🌐 Conecta Conmigo
 
 <div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-andercmd.dev-58A6FF?style=for-the-badge)](https://andercmd.dev)
-[![Email](https://img.shields.io/badge/Email-andercmd@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:andercmd@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-andercmd-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andercmd)
-[![GitHub](https://img.shields.io/badge/GitHub-AnderCMD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnderCMD)
-[![X](https://img.shields.io/badge/X-@AnderCMDs-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AnderCMDs)
-
-[![Dev.to](https://img.shields.io/badge/Dev.to-andercmd-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/andercmd)
-[![CodePen](https://img.shields.io/badge/CodePen-AnderCMD-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.com/AnderCMD)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-andercmd-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21162451/andercmd)
-[![HackerRank](https://img.shields.io/badge/HackerRank-andercmd-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/andercmd)
-[![npm](https://img.shields.io/badge/npm-andercmd-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~andercmd)
-
+  <a href="https://andercmd.dev">
+    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:andercmd@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/andercmd">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/AnderCMD">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://x.com/AnderCMDs">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://dev.to/andercmd">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://codepen.com/AnderCMD">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/andercmd">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.npmjs.com/~andercmd">
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  </a>
 </div>
 
 ---
@@ -61,64 +75,37 @@ const AnderCMD: Developer = {
 
 ## 🛠️ Tech Stack
 
-### 💻 Lenguajes de Programación
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-</div>
-
-### 🎨 Frontend
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-</div>
-
-### ⚙️ Backend
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-</div>
-
-### 🗄️ Bases de Datos
-
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-</div>
-
-### ☁️ DevOps & Cloud
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=py" width="50" alt="Python" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="50" alt="C#" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50" alt="React" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=astro" width="50" alt="Astro" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50" alt="ExpressJS" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="50" alt="NestJS" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="50" alt=".NET 8+" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" alt="SQL Server" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50" alt="Git" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50" alt="Docker" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="50" alt="Vercel" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="50" alt="AWS" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=azure" width="50" alt="Azure" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/hostinger/673DE6" width="50" alt="Hostinger" /></td>
+  </tr>
+</table>
 
 ---
 
@@ -131,22 +118,6 @@ const AnderCMD: Developer = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnderCMD&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnderCMD&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnderCMD&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
