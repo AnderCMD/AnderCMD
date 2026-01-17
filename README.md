@@ -104,22 +104,10 @@ const AnderCMD: Developer = {
     <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="50" alt="Vercel" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="50" alt="AWS" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=azure" width="50" alt="Azure" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="50" alt="Cloudflare" /></td>
     <td align="center"><img src="https://cdn.simpleicons.org/hostinger/673DE6" width="50" alt="Hostinger" /></td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnderCMD&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnderCMD&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnderCMD&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-</div>
 
 ---
 
