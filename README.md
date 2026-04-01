@@ -51,13 +51,13 @@
 const AnderCMD: Developer = {
 	name: 'Ander González González',
 	alias: 'AnderCMD',
-	rol: 'Ingeniero en Software Full Stack,
+	rol: 'Ingeniero en Software Full Stack',
 	location: 'México',
 	agileMethodology 'Scrum',
 	specialties: [
 		'Desarrollo Web Full Stack',
 		'DevOps',
-        'QA',
+        'QA'
 	],
 	learning: ['Go'],
 	interest: ['Open Source', 'Tech Innovation', 'Code Quality'],
