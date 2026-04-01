@@ -35,12 +35,6 @@
   <a href="https://x.com/AnderCMDs">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://dev.to/andercmd">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="https://codepen.com/AnderCMD">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
-  </a>
   <a href="https://www.hackerrank.com/profile/andercmd">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
@@ -55,20 +49,19 @@
 
 ```typescript
 const AnderCMD: Developer = {
-	nombre: 'Ander González González',
+	name: 'Ander González González',
 	alias: 'AnderCMD',
-	rol: 'Full Stack Developer & Software Engineer',
-	ubicacion: 'México',
-	especialidades: [
+	rol: 'Ingeniero en Software Full Stack,
+	location: 'México',
+	agileMethodology 'Scrum',
+	specialties: [
 		'Desarrollo Web Full Stack',
-		'Arquitectura de Software',
-		'DevOps & Cloud Computing',
-		'API Design & Microservicios',
-    'QA Tester Automation',
+		'DevOps',
+        'QA',
 	],
-	aprendiendo: ['Go', 'Angular'],
-	intereses: ['Open Source', 'Tech Innovation', 'Code Quality'],
-	contacto: 'andercmd@outlook.com',
+	learning: ['Go'],
+	interest: ['Open Source', 'Tech Innovation', 'Code Quality'],
+	contact: 'andercmd@outlook.com',
 };
 ```
 
