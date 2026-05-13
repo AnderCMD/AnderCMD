@@ -53,7 +53,7 @@ const AnderCMD: Developer = {
 	alias: 'AnderCMD',
 	rol: 'Ingeniero en Software Full Stack',
 	location: 'México',
-	agileMethodology 'Scrum',
+	agileMethodology: 'Scrum',
 	specialties: [
 		'Desarrollo Web Full Stack',
 		'DevOps',
