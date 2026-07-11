@@ -20,7 +20,7 @@
 ## 🌐 Conecta Conmigo
 
 <div align="center">
-  <img src="/Images/Logo-AnderCMD-Animado.gif" alt="Ander González Animation" width="30%" />
+  <img src="/Images/Logo-AnderCMD-Animado.gif" alt="Ander González Animation" width="40%" />
 </div>
 
 ---
