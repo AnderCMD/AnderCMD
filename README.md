@@ -15,10 +15,6 @@
   <img src="https://img.shields.io/github/followers/AnderCMD?style=for-the-badge&color=58A6FF" alt="Followers" />
 </p>
 
----
-
-## 🌐 Conecta Conmigo
-
 <div align="center">
   <img src="/Images/Logo-AnderCMD-Animado.gif" alt="Ander González Animation" width="40%" />
 </div>
