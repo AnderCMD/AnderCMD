@@ -20,6 +20,12 @@
 ## 🌐 Conecta Conmigo
 
 <div align="center">
+  <img src="/Images/Logo-AnderCMD-Animado.gif" alt="Ander González Animation" width="30%" />
+</div>
+
+---
+
+<div align="center">
   <a href="https://andercmd.dev">
     <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
