@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola+%F0%9F%91%8B+Soy+Ander+González;Full+Stack+Developer+%F0%9F%92%BB;Software+Engineer+%F0%9F%9A%80;DevOps+Enthusiast+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ander+González;Full+Stack+Developer+%F0%9F%92%BB;Software+Engineer+%F0%9F%9A%80;DevOps+Enthusiast+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -47,17 +47,17 @@
 
 ---
 
-## 👨‍💻 Sobre Mí
+## 👨‍💻 About Me
 
 ```typescript
 const AnderCMD: Developer = {
 	name: 'Ander González González',
 	alias: 'AnderCMD',
-	rol: 'Ingeniero en Software Full Stack',
-	location: 'México',
+	role: 'Full Stack Software Engineer',
+	location: 'Mexico',
 	agileMethodology: 'Scrum',
 	specialties: [
-		'Desarrollo Web Full Stack',
+		'Full Stack Web Development',
 		'DevOps',
         'QA'
 	],
@@ -124,11 +124,11 @@ const AnderCMD: Developer = {
 
 ---
 
-## 💖 Apóyame
+## 💖 Support Me
 
 <div align="center">
   
-Si te gusta mi trabajo y quieres apoyarme, puedes invitarme un café ☕
+If you like my work and want to support me, you can buy me a coffee ☕
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/AnderCMD)
 
