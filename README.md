@@ -127,6 +127,10 @@ const AnderCMD: Developer = {
   <img src="https://streak-stats.demolab.com/?user=AnderCMD&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnderCMD&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
 ---
 
 ## 🐍 Contribution Snake
