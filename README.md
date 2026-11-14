@@ -78,26 +78,41 @@ const AnderCMD: Developer = {
     <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=py" width="50" alt="Python" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="50" alt="Java" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="50" alt="C#" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50" alt="React" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=astro" width="50" alt="Astro" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=go" width="50" alt="Go" /></td>
   </tr>
   <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50" alt="React" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vite" width="50" alt="Vite" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=astro" width="50" alt="Astro" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50" alt="ExpressJS" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="50" alt="NestJS" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="50" alt="Spring Boot" /></td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="50" alt=".NET 8+" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL" /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" alt="SQL Server" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" alt="Oracle SQL" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="50" alt="Redis" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50" alt="Git" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50" alt="Git" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="50" alt="GitHub Actions" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50" alt="Docker" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=selenium" width="50" alt="Selenium" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="50" alt="Cucumber" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=arduino" width="50" alt="Arduino" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="50" alt="Vercel" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="50" alt="AWS" /></td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=azure" width="50" alt="Azure" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="50" alt="Cloudflare" /></td>
     <td align="center"><img src="https://cdn.simpleicons.org/hostinger/673DE6" width="50" alt="Hostinger" /></td>
